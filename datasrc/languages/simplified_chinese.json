@@ -1895,11 +1895,11 @@
 		},
 		{
 			"or": "Buildpoints",
-			"tr": ""
+			"tr": "建造点数(BP)"
 		},
 		{
 			"or": "Techlevel",
-			"tr": ""
+			"tr": "建筑等级"
 		}
 	]
 }

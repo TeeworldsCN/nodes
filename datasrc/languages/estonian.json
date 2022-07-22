@@ -1134,6 +1134,14 @@
 	{
 		"or": "Your team reached a new techlevel: 3",
 		"tr": ""
+	},
+	{
+		"or": "Buildpoints",
+		"tr": ""
+	},
+	{
+		"or": "Techlevel",
+		"tr": ""
 	}
 ]
 }
