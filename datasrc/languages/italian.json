@@ -1641,6 +1641,142 @@
 	{
 		"or": "wait for more players",
 		"tr": "attendi più giocatori"
+	},
+	{
+		"or": "Reactor",
+		"tr": ""
+	},
+	{
+		"or": "Most important building,\nneeded to build other\nthings. Supplies your base\nwith energy. There can be\nonly one reactor at the\nsame time.",
+		"tr": ""
+	},
+	{
+		"or": "Spawn",
+		"tr": ""
+	},
+	{
+		"or": "Allows your teammates to\nspawn at this building. If\nthere are no spawns and no\nplayers left, your team has\nlost. So handle these carefully!",
+		"tr": ""
+	},
+	{
+		"or": "Ammo Disp. Shotgun",
+		"tr": ""
+	},
+	{
+		"or": "Supplies your team with the\nshotgun and ammunition.",
+		"tr": ""
+	},
+	{
+		"or": "Health Station",
+		"tr": ""
+	},
+	{
+		"or": "Refreshs your health in case\nof medical emergencies.",
+		"tr": ""
+	},
+	{
+		"or": "Repeater",
+		"tr": ""
+	},
+	{
+		"or": "Mini Reactor. Allows you to\nbuild at any other spot on\nthe map, as long as there is\na working reactor.",
+		"tr": ""
+	},
+	{
+		"or": "Gun Turret",
+		"tr": ""
+	},
+	{
+		"or": "Shoots at enemies\nautomatically. High range\nand fire rate, but low\ndamage. Be careful: Might\nhurt teammates as well!",
+		"tr": ""
+	},
+	{
+		"or": "Shield Generator",
+		"tr": ""
+	},
+	{
+		"or": "Protects friendly players and\nbuildings from projectiles\nby tossing them back to their\nsenders.",
+		"tr": ""
+	},
+	{
+		"or": "Ammo Disp. Grenade",
+		"tr": ""
+	},
+	{
+		"or": "Supplies your team with the\ngrenade launcher and ammo.",
+		"tr": ""
+	},
+	{
+		"or": "Teeleporter",
+		"tr": ""
+	},
+	{
+		"or": "Makes faster-than-light\ntravelling between two of\nthose finally possible.",
+		"tr": ""
+	},
+	{
+		"or": "Armor Station",
+		"tr": ""
+	},
+	{
+		"or": "Gives you protective armor\nagainst weapons of all kinds.",
+		"tr": ""
+	},
+	{
+		"or": "Ammo Disp. Laser",
+		"tr": ""
+	},
+	{
+		"or": "Supplies your team with\nlaser weapons and\nammunition. Not affected\nby shields!",
+		"tr": ""
+	},
+	{
+		"or": "Shotgun Turret",
+		"tr": ""
+	},
+	{
+		"or": "Shoots at enemies\nautomatically using\na shotgun. High damage,\nbut low range. Be\ncareful: Might hurt\nteammates as well!",
+		"tr": ""
+	},
+	{
+		"or": "Nodes 0.7 Remake by teeworlds.network",
+		"tr": ""
+	},
+	{
+		"or": "Original Nodes by inherited & Mo(2)",
+		"tr": ""
+	},
+	{
+		"or": "Graphics by Landil & Whis",
+		"tr": ""
+	},
+	{
+		"or": "Tech 1",
+		"tr": ""
+	},
+	{
+		"or": "Tech 2",
+		"tr": ""
+	},
+	{
+		"or": "Tech 3",
+		"tr": ""
+	},
+	{
+		"or": "Price: %d BP\n\n",
+		"tr": ""
+	},
+	{
+		"or": "Buildmenu",
+		"tr": ""
+	},
+	{
+		"or": "Deconstruct",
+		"tr": ""
+	},
+	{
+		"or": "Special",
+		"tr": ""
 	}
 ]
 }
