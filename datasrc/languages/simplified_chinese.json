@@ -4,7 +4,8 @@
 		"TsFreddie            2013-05-15 19:17:44",
 		"tiwb, 2018 (Transifex)",
 		"TsFreddie, 2014 (Transifex)",
-		"tiwb, 2018 (Transifex)"
+		"tiwb, 2018 (Transifex)",
+		"ST-Chara, 2022 (For Nodes)"
 	],
 	"originally created by": "MK124"
 },
@@ -1678,139 +1679,139 @@
 	},
 	{
 		"or": "Reactor",
-		"tr": ""
+		"tr": "核反应堆"
 	},
 	{
 		"or": "Most important building,\nneeded to build other\nthings. Supplies your base\nwith energy. There can be\nonly one reactor at the\nsame time.",
-		"tr": ""
+		"tr": "最重要的建筑之一,任何建筑都不能没有它. \n用于为建筑提供电量.\n同一时间只能有1个核反应堆."
 	},
 	{
 		"or": "Spawn",
-		"tr": ""
+		"tr": "培养皿"
 	},
 	{
 		"or": "Allows your teammates to\nspawn at this building. If\nthere are no spawns and no\nplayers left, your team has\nlost. So handle these carefully!",
-		"tr": ""
+		"tr": "令所属队伍的成员重生在建筑\n所在位置. 如果一个队伍没有\n培养皿也没有或者的玩家，那么\n这个队伍就输掉了游戏。\n所以, 千万要小心！！"
 	},
 	{
 		"or": "Ammo Disp. Shotgun",
-		"tr": ""
+		"tr": "子弹供应. 散弹枪"
 	},
 	{
 		"or": "Supplies your team with the\nshotgun and ammunition.",
-		"tr": ""
+		"tr": "为所属战队提供散弹枪和它的子弹"
 	},
 	{
 		"or": "Health Station",
-		"tr": ""
+		"tr": "血量补给站"
 	},
 	{
 		"or": "Refreshs your health in case\nof medical emergencies.",
-		"tr": ""
+		"tr": "为所属战队供应血量"
 	},
 	{
 		"or": "Repeater",
-		"tr": ""
+		"tr": "电力传输塔"
 	},
 	{
 		"or": "Mini Reactor. Allows you to\nbuild at any other spot on\nthe map, as long as there is\na working reactor.",
-		"tr": ""
+		"tr": "小型电力传输塔.用于传输核反应堆\n内的电力.只能建造在另一个\n电力传输塔或核反应堆旁.\n只有在信号塔范围内才能建造建筑"
 	},
 	{
 		"or": "Gun Turret",
-		"tr": ""
+		"tr": "手枪炮塔"
 	},
 	{
 		"or": "Shoots at enemies\nautomatically. High range\nand fire rate, but low\ndamage. Be careful: Might\nhurt teammates as well!",
-		"tr": ""
+		"tr": "使用手枪自动射击敌人\n范围很广，射击间隔很短\n但是伤害很低\n注意：可能会伤害队友！"
 	},
 	{
 		"or": "Shield Generator",
-		"tr": ""
+		"tr": "防护盾"
 	},
 	{
 		"or": "Protects friendly players and\nbuildings from projectiles\nby tossing them back to their\nsenders.",
-		"tr": ""
+		"tr": "保护所属战队的玩家和建筑，将敌方\n的子弹全部弹回去！"
 	},
 	{
 		"or": "Ammo Disp. Grenade",
-		"tr": ""
+		"tr": "子弹供应. 榴弹枪"
 	},
 	{
 		"or": "Supplies your team with the\ngrenade launcher and ammo.",
-		"tr": ""
+		"tr": "为所属团队提供榴弹枪和它的子弹"
 	},
 	{
 		"or": "Teeleporter",
-		"tr": ""
+		"tr": "传Tee门"
 	},
 	{
 		"or": "Makes faster-than-light\ntravelling between two of\nthose finally possible.",
-		"tr": ""
+		"tr": "让Tee以比闪电还快的速度\n在两个传Tee门间旅行"
 	},
 	{
 		"or": "Armor Station",
-		"tr": ""
+		"tr": "盔甲补给站"
 	},
 	{
 		"or": "Gives you protective armor\nagainst weapons of all kinds.",
-		"tr": ""
+		"tr": "为所属团队提供盔甲。"
 	},
 	{
 		"or": "Ammo Disp. Laser",
-		"tr": ""
+		"tr": "子弹供应. 激光枪"
 	},
 	{
 		"or": "Supplies your team with\nlaser weapons and\nammunition. Not affected\nby shields!",
-		"tr": ""
+		"tr": "为所属团队提供激光枪和\n弹药。不会受防护罩影响！"
 	},
 	{
 		"or": "Shotgun Turret",
-		"tr": ""
+		"tr": "散弹枪炮塔"
 	},
 	{
 		"or": "Shoots at enemies\nautomatically using\na shotgun. High damage,\nbut low range. Be\ncareful: Might hurt\nteammates as well!",
-		"tr": ""
+		"tr": "使用散弹枪自动射击\n敌人。伤害很高，但是\n攻击距离很短。当心：可能\n会误伤队友！！"
 	},
 	{
 		"or": "Nodes 0.7 Remake by teeworlds.network",
-		"tr": ""
+		"tr": "Nodes模式0.7重制版本由teeworlds.network制作"
 	},
 	{
 		"or": "Original Nodes by inherited & Mo(2)",
-		"tr": ""
+		"tr": "原版Nodes模式作者：inherited和Mo(2)"
 	},
 	{
 		"or": "Graphics by Landil & Whis",
-		"tr": ""
+		"tr": "贴图作者：Landi1 和 Whis"
 	},
 	{
 		"or": "Tech 1",
-		"tr": ""
+		"tr": "建造等级1"
 	},
 	{
 		"or": "Tech 2",
-		"tr": ""
+		"tr": "建造等级2"
 	},
 	{
 		"or": "Tech 3",
-		"tr": ""
+		"tr": "建造等级3"
 	},
 	{
 		"or": "Price: %d BP\n\n",
-		"tr": ""
+		"tr": "价格: %d BP\n\n"
 	},
 	{
 		"or": "Buildmenu",
-		"tr": ""
+		"tr": "建造菜单"
 	},
 	{
 		"or": "Deconstruct",
-		"tr": ""
+		"tr": "摧毁建筑"
 	},
 	{
 		"or": "Special",
-		"tr": ""
+		"tr": "特殊技能"
 	}
 ]
 }
