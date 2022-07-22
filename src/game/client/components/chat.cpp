@@ -666,7 +666,7 @@ void CChat::AddLine(const char *pLine, int ClientID, int Mode, int TargetID)
 		if(ClientID == SERVER_MSG)
 		{
 			pCurLine->m_aName[0] = 0;
-			str_format(pCurLine->m_aText, sizeof(pCurLine->m_aText), "*** %s", pLine);
+			str_format(pCurLine->m_aText, sizeof(pCurLine->m_aText), "*** %s", Localize(pLine));
 		}
 		else if(ClientID == CLIENT_MSG)
 		{

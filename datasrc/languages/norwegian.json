@@ -1772,6 +1772,86 @@
 	},
 	{
 		"or": "Special",
+		"tr": "特殊技能"
+	},
+	{
+		"or": "Please wait before constructing another building",
+		"tr": ""
+	},
+	{
+		"or": "Your team hasn't reached the tech level for this building yet",
+		"tr": "ASDAW"
+	},
+	{
+		"or": "Please wait before deconstructing another building",
+		"tr": ""
+	},
+	{
+		"or": "You are not allowed to self-destruct this building!",
+		"tr": ""
+	},
+	{
+		"or": "Your team can only have two teleporters",
+		"tr": ""
+	},
+	{
+		"or": "This spot is not powered. Build a repeater or reactor first",
+		"tr": ""
+	},
+	{
+		"or": "Your team can only have one reactor",
+		"tr": ""
+	},
+	{
+		"or": "You need to build a reactor first",
+		"tr": ""
+	},
+	{
+		"or": "This spot is too close to the enemy!",
+		"tr": ""
+	},
+	{
+		"or": "This spot is blocked",
+		"tr": ""
+	},
+	{
+		"or": "Your team has insufficient build points",
+		"tr": ""
+	},
+	{
+		"or": "Your team need need a higher techlevel to build this",
+		"tr": ""
+	},
+	{
+		"or": "There's not enough space to build here",
+		"tr": ""
+	},
+	{
+		"or": "You cannot build anything during sudden death",
+		"tr": ""
+	},
+	{
+		"or": "The reactor is badly damaged!",
+		"tr": ""
+	},
+	{
+		"or": "The reactor is under attack!",
+		"tr": ""
+	},
+	{
+		"or": "There are no working spawns left!",
+		"tr": ""
+	},
+	{
+		"or": "Your team reached a new techlevel: 1",
+		"tr": ""
+	},
+	{
+		"or": "Your team reached a new techlevel: 2",
+		"tr": ""
+	},
+	{
+		"or": "Your team reached a new techlevel: 3",
 		"tr": ""
 	}
 ]
