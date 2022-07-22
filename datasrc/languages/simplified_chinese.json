@@ -1815,83 +1815,83 @@
 	},
 	{
 		"or": "Please wait before constructing another building",
-		"tr": ""
+		"tr": "请等待一会儿再继续建筑"
 	},
 	{
 		"or": "Your team hasn't reached the tech level for this building yet",
-		"tr": ""
+		"tr": "你的队伍还没有达到能建筑这个建筑物的等级"
 	},
 	{
 		"or": "Please wait before deconstructing another building",
-		"tr": ""
+		"tr": "请在另一建筑解构完成前等待"
 	},
 	{
 		"or": "You are not allowed to self-destruct this building!",
-		"tr": ""
+		"tr": "你没有摧毁这个建筑的权限！"
 	},
 	{
 		"or": "Your team can only have two teleporters",
-		"tr": ""
+		"tr": "一个队伍只能有2个传Tee门"
 	},
 	{
 		"or": "This spot is not powered. Build a repeater or reactor first",
-		"tr": ""
+		"tr": "这个节点没有通电. 请先在附近建造电力中继站或核反应堆"
 	},
 	{
 		"or": "Your team can only have one reactor",
-		"tr": ""
+		"tr": "一个队伍只能有1个核反应堆"
 	},
 	{
 		"or": "You need to build a reactor first",
-		"tr": ""
+		"tr": "你需要有核反应堆才可以开始建造"
 	},
 	{
 		"or": "This spot is too close to the enemy!",
-		"tr": ""
+		"tr": "这个节点太靠近敌人了！"
 	},
 	{
 		"or": "This spot is blocked",
-		"tr": ""
+		"tr": "这个节点被挡住了"
 	},
 	{
 		"or": "Your team has insufficient build points",
-		"tr": ""
+		"tr": "你所在的队伍没有足够的BP来建造"
 	},
 	{
 		"or": "Your team need need a higher techlevel to build this",
-		"tr": ""
+		"tr": "你所在的队伍需要更高的建筑等级才能建造这个"
 	},
 	{
 		"or": "There's not enough space to build here",
-		"tr": ""
+		"tr": "这里没有足够的空间来建造"
 	},
 	{
 		"or": "You cannot build anything during sudden death",
-		"tr": ""
+		"tr": "你不能在决胜时刻建筑任何东西"
 	},
 	{
 		"or": "The reactor is badly damaged!",
-		"tr": ""
+		"tr": "核反应堆受到了致命打击！！"
 	},
 	{
 		"or": "The reactor is under attack!",
-		"tr": ""
+		"tr": "核反应堆正在被攻击！"
 	},
 	{
 		"or": "There are no working spawns left!",
-		"tr": ""
+		"tr": "已经没有可以运转的培养皿了！！！"
 	},
 	{
 		"or": "Your team reached a new techlevel: 1",
-		"tr": ""
+		"tr": "你所在的队伍达到了建造等级：1"
 	},
 	{
 		"or": "Your team reached a new techlevel: 2",
-		"tr": ""
+		"tr": "你所在的队伍达到了建造等级：2"
 	},
 	{
 		"or": "Your team reached a new techlevel: 3",
-		"tr": ""
+		"tr": "你所在的队伍达到了建造等级：3"
 	}
 ]
 }
