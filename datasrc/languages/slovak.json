@@ -1301,7 +1301,51 @@
 		"tr": ""
 	},
 	{
-		"or": "Techlevel",
+			"or": "Techlevel",
+		"tr": ""
+	},
+	{
+		"or": "Health",
+		"tr": ""
+	},
+	{
+		"or": "Armor",
+		"tr": ""
+	},
+	{
+		"or": "Construction",
+		"tr": ""
+	},
+	{
+		"or": "Baseball",
+		"tr": ""
+	},
+	{
+		"or": "Freeze",
+		"tr": ""
+	},
+	{
+		"or": "EMP",
+		"tr": ""
+	},
+	{
+		"or": "Duck",
+		"tr": ""
+	},
+	{
+		"or": "Boom",
+		"tr": ""
+	},
+	{
+		"or": "Poison",
+		"tr": ""
+	},
+	{
+		"or": "Respawn time: 2",
+		"tr": ""
+	},
+	{
+		"or": "Respawn time: 1",
 		"tr": ""
 	}
 ]

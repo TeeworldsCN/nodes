@@ -264,6 +264,8 @@ void CBroadcast::OnMessage(int MsgType, void* pRawMsg)
 	{
 		CNetMsg_Sv_Broadcast *pMsg = (CNetMsg_Sv_Broadcast *)pRawMsg;
 
+		pMsg->m_pMessage = Localize(pMsg->m_pMessage);
+		
 		// new broadcast message
 		int RcvMsgLen = str_length(pMsg->m_pMessage);
 		mem_zero(m_aSrvBroadcastMsg, sizeof(m_aSrvBroadcastMsg));
