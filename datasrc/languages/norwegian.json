@@ -1772,7 +1772,7 @@
 	},
 	{
 		"or": "Special",
-		"tr": "特殊技能"
+		"tr": ""
 	},
 	{
 		"or": "Please wait before constructing another building",
@@ -1780,7 +1780,7 @@
 	},
 	{
 		"or": "Your team hasn't reached the tech level for this building yet",
-		"tr": "ASDAW"
+		"tr": ""
 	},
 	{
 		"or": "Please wait before deconstructing another building",

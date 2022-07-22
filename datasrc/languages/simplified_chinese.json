@@ -1811,7 +1811,7 @@
 		},
 		{
 			"or": "Special",
-			"tr": "特殊技能"
+			"tr": ""
 		},
 		{
 			"or": "Please wait before constructing another building",
@@ -1895,12 +1895,12 @@
 		},
 		{
 			"or": "Buildpoints",
-			"tr": "建造点数(BP)"
+			"tr": ""
 		},
 		{
 			"or": "Techlevel",
-			"tr": "建筑等级"
+			"tr": ""
 		}
 	]
-	}
+}
 	
