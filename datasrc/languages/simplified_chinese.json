@@ -4,8 +4,7 @@
 			"TsFreddie            2013-05-15 19:17:44",
 			"tiwb, 2018 (Transifex)",
 			"TsFreddie, 2014 (Transifex)",
-			"tiwb, 2018 (Transifex)",
-			"ST-Chara, 2022 (For Nodes)"
+			"tiwb, 2018 (Transifex)"
 		],
 		"originally created by": "MK124"
 	},
@@ -1811,7 +1810,7 @@
 	},
 	{
 		"or": "Special",
-		"tr": ""
+		"tr": "特殊技能"
 	},
 	{
 		"or": "Please wait before constructing another building",
@@ -1903,47 +1902,47 @@
 	},
 	{
 		"or": "Health",
-		"tr": ""
+		"tr": "血量"
 	},
 	{
 		"or": "Armor",
-		"tr": ""
+		"tr": "盔甲"
 	},
 	{
 		"or": "Construction",
-		"tr": ""
+		"tr": "建造速度加成"
 	},
 	{
 		"or": "Baseball",
-		"tr": ""
+		"tr": "垒球！哈哈"
 	},
 	{
 		"or": "Freeze",
-		"tr": ""
+		"tr": "冰冻"
 	},
 	{
 		"or": "EMP",
-		"tr": ""
+		"tr": "你被强化了！快送！"
 	},
 	{
 		"or": "Duck",
-		"tr": ""
+		"tr": "鸭子"
 	},
 	{
 		"or": "Boom",
-		"tr": ""
+		"tr": "BOOM！"
 	},
 	{
 		"or": "Poison",
-		"tr": ""
+		"tr": "毒药"
 	},
 	{
 		"or": "Respawn time: 2",
-		"tr": ""
+		"tr": "复活倒计时：2"
 	},
 	{
 		"or": "Respawn time: 1",
-		"tr": ""
+		"tr": "复活倒计时：1"
 	}
 	]
 }
