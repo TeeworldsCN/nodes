@@ -118,13 +118,13 @@ void CMenus::RenderStartMenu(CUIRect MainView)
 	MainView.HSplitBottom(90.0f, 0, &Credits);
 	Credits.VMargin(25.0f, &Credits);
 	Credits.HSplitTop(20.0f, &Label, &Credits);
-	UI()->DoLabel(&Label, "Nodes 0.7 Remake by teeworlds.network", 14.0f, CUI::ALIGN_LEFT);
+	UI()->DoLabel(&Label, Localize("Nodes 0.7 Remake by teeworlds.network"), 14.0f, CUI::ALIGN_LEFT);
 
 	Credits.HSplitTop(20.0f, &Label, &Credits);
-	UI()->DoLabel(&Label, "Original Nodes by inherited & Mo(2)", 14.0f, CUI::ALIGN_LEFT);
+	UI()->DoLabel(&Label, Localize("Original Nodes by inherited & Mo(2)"), 14.0f, CUI::ALIGN_LEFT);
 
 	Credits.HSplitTop(20.0f, &Label, &Credits);
-	UI()->DoLabel(&Label, "Graphics by Landil & Whis", 14.0f, CUI::ALIGN_LEFT);
+	UI()->DoLabel(&Label, Localize("Graphics by Landil & Whis"), 14.0f, CUI::ALIGN_LEFT);
 
 	if(NewPage != -1)
 		SetMenuPage(NewPage);

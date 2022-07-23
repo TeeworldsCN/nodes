@@ -119,15 +119,19 @@ void CBuildMenu::OnRender()
 	RenderTools()->DrawRoundRectExt(Left + 4 * Width + 2, Screen.h / 2 - Height - Height / 2, 2 * Width + Width / 2, 3 * Height, 17.0f, 0);
 	Graphics()->QuadsEnd();
 
-	TextRender()->Text(0, Left - tw, Screen.h / 2 - 144 + 48 - 18, 24, "Tech 1", -1);
-	TextRender()->Text(0, Left - tw, Screen.h / 2 - 18, 24, "Tech 2", -1);
-	TextRender()->Text(0, Left - tw, Screen.h / 2 + 48 + 48 - 18, 24, "Tech 3", -1);
+	TextRender()->Text(0, Left - tw, Screen.h / 2 - 144 + 48 - 18, 24, Localize("Tech 1"), -1);
+	TextRender()->Text(0, Left - tw, Screen.h / 2 - 18, 24, Localize("Tech 2"), -1);
+	TextRender()->Text(0, Left - tw, Screen.h / 2 + 48 + 48 - 18, 24, Localize("Tech 3"), -1);
 
-	TextRender()->Text(0, Left + 4 * Width + 15, Screen.h / 2 - 144 + 7, 14, aBuildingsInfo[m_SelectedBuilding].m_pName, -1);
+	TextRender()->Text(0, Left + 4 * Width + 15, Screen.h / 2 - 144 + 7, 14, Localize(aBuildingsInfo[m_SelectedBuilding].m_pName), -1);
 
+	char aBuf_x[256];
 	char aBuf[256];
-	str_format(aBuf, sizeof(aBuf), "Price: %d BP\n\n%s", aBuildingsInfo[m_SelectedBuilding].m_Price, aBuildingsInfo[m_SelectedBuilding].m_pDesc);
-	TextRender()->Text(0, Left + 4 * Width + 15, Screen.h / 2 - 144 + 38, 14, aBuf, -1);
+	char Desc[256];
+	str_format(aBuf, sizeof(aBuf), Localize("Price: %d BP\n\n"), aBuildingsInfo[m_SelectedBuilding].m_Price);
+	str_format(Desc, sizeof(Desc), Localize(aBuildingsInfo[m_SelectedBuilding].m_pDesc));
+	str_format(aBuf_x, sizeof(aBuf_x), "%s%s", aBuf, Desc);
+	TextRender()->Text(0, Left + 4 * Width + 15, Screen.h / 2 - 144 + 38, 14, aBuf_x, -1);
 
 	Graphics()->TextureSet(g_pData->m_aImages[IMAGE_BUILDMENU].m_Id);
 	Graphics()->QuadsBegin();

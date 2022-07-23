@@ -65,6 +65,7 @@ static CKeyInfo gs_aKeys[] =
 	Localize("Vote yes");Localize("Vote no");Localize("Chat");Localize("Team chat");Localize("Whisper");Localize("Show chat");Localize("Emoticon");
 	Localize("Spectator mode");Localize("Spectate next");Localize("Spectate previous");Localize("Console");Localize("Remote console");
 	Localize("Screenshot");Localize("Scoreboard");Localize("Statboard");Localize("Respawn");Localize("Ready");Localize("Add demo marker");Localize("Toggle sounds");Localize("Toggle dynamic camera")
+	Localize("Buildmenu");Localize("Deconstruct");Localize("Special");
 */
 
 const int g_KeyCount = sizeof(gs_aKeys) / sizeof(CKeyInfo);

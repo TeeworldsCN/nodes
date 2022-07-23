@@ -1,14 +1,14 @@
 {
-"authors": {
-	"modified by": [
-		"TsFreddie            2013-05-15 19:17:44",
-		"tiwb, 2018 (Transifex)",
-		"TsFreddie, 2014 (Transifex)",
-		"tiwb, 2018 (Transifex)"
-	],
-	"originally created by": "MK124"
-},
-"translated strings": [
+	"authors": {
+		"modified by": [
+			"TsFreddie            2013-05-15 19:17:44",
+			"tiwb, 2018 (Transifex)",
+			"TsFreddie, 2014 (Transifex)",
+			"tiwb, 2018 (Transifex)"
+		],
+		"originally created by": "MK124"
+	},
+	"translated strings": [
 	{
 		"or": " (%s seconds faster)",
 		"tr": "( -%s 秒 )"
@@ -1675,6 +1675,275 @@
 	{
 		"or": "wait for more players",
 		"tr": "等待更多玩家"
+	},
+	{
+		"or": "Reactor",
+		"tr": "核反应堆"
+	},
+	{
+		"or": "Most important building,\nneeded to build other\nthings. Supplies your base\nwith energy. There can be\nonly one reactor at the\nsame time.",
+		"tr": "最重要的建筑之一,任何建筑都不能没\n有它. 用于为建筑提供电量.\n同一时间只能有1个核反应堆."
+	},
+	{
+		"or": "Spawn",
+		"tr": "培养皿"
+	},
+	{
+		"or": "Allows your teammates to\nspawn at this building. If\nthere are no spawns and no\nplayers left, your team has\nlost. So handle these carefully!",
+		"tr": "令所属队伍的成员重生在建筑\n所在位置. 如果一个队伍没有\n培养皿也没有或者的玩家，那么\n这个队伍就输掉了游戏。\n所以, 千万要小心！！"
+	},
+	{
+		"or": "Ammo Disp. Shotgun",
+		"tr": "子弹供应. 散弹枪"
+	},
+	{
+		"or": "Supplies your team with the\nshotgun and ammunition.",
+		"tr": "为所属战队提供散弹枪和它的子弹"
+	},
+	{
+		"or": "Health Station",
+		"tr": "血量补给站"
+	},
+	{
+		"or": "Refreshs your health in case\nof medical emergencies.",
+		"tr": "为所属战队供应血量"
+	},
+	{
+		"or": "Repeater",
+		"tr": "电力传输塔"
+	},
+	{
+		"or": "Mini Reactor. Allows you to\nbuild at any other spot on\nthe map, as long as there is\na working reactor.",
+		"tr": "小型电力传输塔.用于传输核反应堆\n内的电力.只能建造在另一个\n电力传输塔或核反应堆旁.\n只有在信号塔范围内才能建造建筑"
+	},
+	{
+		"or": "Gun Turret",
+		"tr": "手枪炮塔"
+	},
+	{
+		"or": "Shoots at enemies\nautomatically. High range\nand fire rate, but low\ndamage. Be careful: Might\nhurt teammates as well!",
+		"tr": "使用手枪自动射击敌人\n范围很广，射击间隔很短\n但是伤害很低\n注意：可能会伤害队友！"
+	},
+	{
+		"or": "Shield Generator",
+		"tr": "防护盾"
+	},
+	{
+		"or": "Protects friendly players and\nbuildings from projectiles\nby tossing them back to their\nsenders.",
+		"tr": "保护所属战队的玩家和建筑，将敌方\n的子弹全部弹回去！"
+	},
+	{
+		"or": "Ammo Disp. Grenade",
+		"tr": "子弹供应. 榴弹枪"
+	},
+	{
+		"or": "Supplies your team with the\ngrenade launcher and ammo.",
+		"tr": "为所属团队提供榴弹枪和它的子弹"
+	},
+	{
+		"or": "Teeleporter",
+		"tr": "传Tee门"
+	},
+	{
+		"or": "Makes faster-than-light\ntravelling between two of\nthose finally possible.",
+		"tr": "让Tee以比闪电还快的速度\n在两个传Tee门间旅行"
+	},
+	{
+		"or": "Armor Station",
+		"tr": "盔甲补给站"
+	},
+	{
+		"or": "Gives you protective armor\nagainst weapons of all kinds.",
+		"tr": "为所属团队提供盔甲。"
+	},
+	{
+		"or": "Ammo Disp. Laser",
+		"tr": "子弹供应. 激光枪"
+	},
+	{
+		"or": "Supplies your team with\nlaser weapons and\nammunition. Not affected\nby shields!",
+		"tr": "为所属团队提供激光枪和\n弹药。不会受防护罩影响！"
+	},
+	{
+		"or": "Shotgun Turret",
+		"tr": "散弹枪炮塔"
+	},
+	{
+		"or": "Shoots at enemies\nautomatically using\na shotgun. High damage,\nbut low range. Be\ncareful: Might hurt\nteammates as well!",
+		"tr": "使用散弹枪自动射击\n敌人。伤害很高，但是\n攻击距离很短。当心：可能\n会误伤队友！！"
+	},
+	{
+		"or": "Nodes 0.7 Remake by teeworlds.network",
+		"tr": "Nodes模式0.7重制版本由teeworlds.network制作"
+	},
+	{
+		"or": "Original Nodes by inherited & Mo(2)",
+		"tr": "原版Nodes模式作者：inherited和Mo(2)"
+	},
+	{
+		"or": "Graphics by Landil & Whis",
+		"tr": "贴图作者：Landi1 和 Whis"
+	},
+	{
+		"or": "Tech 1",
+		"tr": "建造\n等级1"
+	},
+	{
+		"or": "Tech 2",
+		"tr": "建造\n等级2"
+	},
+	{
+		"or": "Tech 3",
+		"tr": "建造\n等级3"
+	},
+	{
+		"or": "Price: %d BP\n\n",
+		"tr": "价格: %d BP\n\n"
+	},
+	{
+		"or": "Buildmenu",
+		"tr": "建造菜单"
+	},
+	{
+		"or": "Deconstruct",
+		"tr": "摧毁建筑"
+	},
+	{
+		"or": "Special",
+		"tr": "特殊技能"
+	},
+	{
+		"or": "Please wait before constructing another building",
+		"tr": "请等待一会儿再继续建筑"
+	},
+	{
+		"or": "Your team hasn't reached the tech level for this building yet",
+		"tr": "你的队伍还没有达到能建筑这个建筑物的等级"
+	},
+	{
+		"or": "Please wait before deconstructing another building",
+		"tr": "请在另一建筑解构完成前等待"
+	},
+	{
+		"or": "You are not allowed to self-destruct this building!",
+		"tr": "你没有摧毁这个建筑的权限！"
+	},
+	{
+		"or": "Your team can only have two teleporters",
+		"tr": "一个队伍只能有2个传Tee门"
+	},
+	{
+		"or": "This spot is not powered. Build a repeater or reactor first",
+		"tr": "这个节点没有通电. 请先在附近建造电力中继站或核反应堆"
+	},
+	{
+		"or": "Your team can only have one reactor",
+		"tr": "一个队伍只能有1个核反应堆"
+	},
+	{
+		"or": "You need to build a reactor first",
+		"tr": "你需要有核反应堆才可以开始建造"
+	},
+	{
+		"or": "This spot is too close to the enemy!",
+		"tr": "这个节点太靠近敌人了！"
+	},
+	{
+		"or": "This spot is blocked",
+		"tr": "这个节点被挡住了"
+	},
+	{
+		"or": "Your team has insufficient build points",
+		"tr": "你所在的队伍没有足够的BP来建造"
+	},
+	{
+		"or": "Your team need need a higher techlevel to build this",
+		"tr": "你所在的队伍需要更高的建筑等级才能建造这个"
+	},
+	{
+		"or": "There's not enough space to build here",
+		"tr": "这里没有足够的空间来建造"
+	},
+	{
+		"or": "You cannot build anything during sudden death",
+		"tr": "你不能在决胜时刻建筑任何东西"
+	},
+	{
+		"or": "The reactor is badly damaged!",
+		"tr": "核反应堆受到了致命打击！！"
+	},
+	{
+		"or": "The reactor is under attack!",
+		"tr": "核反应堆正在被攻击！"
+	},
+	{
+		"or": "There are no working spawns left!",
+		"tr": "已经没有可以运转的培养皿了！！！"
+	},
+	{
+		"or": "Your team reached a new techlevel: 1",
+		"tr": "你所在的队伍达到了建造等级：1"
+	},
+	{
+		"or": "Your team reached a new techlevel: 2",
+		"tr": "你所在的队伍达到了建造等级：2"
+	},
+	{
+		"or": "Your team reached a new techlevel: 3",
+		"tr": "你所在的队伍达到了建造等级：3"
+	},
+	{
+		"or": "Buildpoints",
+		"tr": "建造点数(BP)"
+	},
+	{
+		"or": "Techlevel",
+		"tr": "建筑等级"
+	},
+	{
+		"or": "Health",
+		"tr": "血量"
+	},
+	{
+		"or": "Armor",
+		"tr": "盔甲"
+	},
+	{
+		"or": "Construction",
+		"tr": "建造速度加成"
+	},
+	{
+		"or": "Baseball",
+		"tr": "垒球！哈哈"
+	},
+	{
+		"or": "Freeze",
+		"tr": "冰冻"
+	},
+	{
+		"or": "EMP",
+		"tr": "你被强化了！快送！"
+	},
+	{
+		"or": "Duck",
+		"tr": "鸭子"
+	},
+	{
+		"or": "Boom",
+		"tr": "BOOM！"
+	},
+	{
+		"or": "Poison",
+		"tr": "毒药"
+	},
+	{
+		"or": "Respawn time: 2",
+		"tr": "复活倒计时：2"
+	},
+	{
+		"or": "Respawn time: 1",
+		"tr": "复活倒计时：1"
 	}
-]
+	]
 }
+	

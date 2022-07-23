@@ -1080,9 +1080,11 @@ void CCharacter::DeconstructBuilding()
 	{
 		GameServer()->SendChatMessage(m_pPlayer->GetCID(), "You are not allowed to self-destruct this building!");
 	
-		char aBuf[256];
+		/*char aBuf[256];
 		str_format(aBuf, sizeof(aBuf), "%s tried to self-destruct without permission", Server()->ClientName(m_pPlayer->GetCID()));
 		GameServer()->SendChat(-1, CHAT_TEAM, pBuilding->Team(), aBuf);
+		They are useless, and I can't make translate in here.
+		*/
 		return;
 	}
 
